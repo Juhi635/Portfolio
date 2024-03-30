@@ -14,5 +14,5 @@ This portfolio has been meticulously crafted using HTML and CSS to provide you w
 
 ## **Technologies Used**
 
-**•HTML5:** Used for structuring the content of the web pages.
+**•HTML5:** Used for structuring the content of the web pages.<br>
 **•CSS3:** Employed for styling and layout of the website, ensuring a visually appealing presentation.
