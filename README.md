@@ -12,7 +12,15 @@ This portfolio has been meticulously crafted using HTML and CSS to provide you w
 
 5. **Contact:** Connect with me through various channels. Whether you prefer reaching out via phone, email, or social media, you'll find all the necessary contact information, including my mobile number, email address, LinkedIn profile, and GitHub repository.
 
+## Live Demo
+
+Access the live demo of the portfolio https://juhi-portfolio.vercel.app/
+
 ## **Technologies Used**
 
 **•HTML5:** Used for structuring the content of the web pages.<br>
 **•CSS3:** Employed for styling and layout of the website, ensuring a visually appealing presentation.
+
+## Credits
+
+This project is hosted on https://vercel.com/
