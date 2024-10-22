@@ -14,7 +14,7 @@ This portfolio has been meticulously crafted using HTML and CSS to provide you w
 
 ## Live Demo
 
-Access the live demo of the portfolio ➡️ https://juhi-portfolio.vercel.app/
+Access the live demo of the portfolio [here](https://juhi-portfolio.vercel.app/)
 
 ## **🛠️ Technologies Used**
 
